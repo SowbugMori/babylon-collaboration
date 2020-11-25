@@ -1,0 +1,19 @@
+{
+  "name": "babylon-collaboration",
+  "version": "1.0.0-alpha",
+  "description": "babylon game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SowbugMori/babylon-collaboration.git"
+  },
+  "author": "Sowbug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SowbugMori/babylon-collaboration/issues"
+  },
+  "homepage": "https://github.com/SowbugMori/babylon-collaboration#readme"
+}
