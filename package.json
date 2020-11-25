@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SowbugMori/babylon-collaboration/issues"
   },
-  "homepage": "https://github.com/SowbugMori/babylon-collaboration#readme"
+  "homepage": "https://github.com/SowbugMori/babylon-collaboration#readme",
+  "devDependencies": {
+    "webpack": "^5.6.0"
+  }
 }
